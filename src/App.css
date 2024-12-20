@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  font-family: Arial, sans-serif;
+}
+
+.main {
+  width: 100vw;
+  background-color: #ffff;
+  display: flex;
+  margin-top: 3vw;
+}
+.home{
+      position: absolute;
+      left: 20%;
+      font-size: 2vw;
+      text-decoration: none;
+      color: white;
+      
+}
+
+
+
+
+
+
